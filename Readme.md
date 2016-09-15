@@ -1,5 +1,5 @@
 ```
-cargo new hello
+cargo new hello --bin
 cargo build
 ./target/debug/hello
 ```
